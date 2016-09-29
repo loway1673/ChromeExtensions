@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "todo",
+  "version": "1.0",
+  
+  "browser_action": {
+    "default_icon": "2014-09-23 08.44.04.jpg",
+    "popup": "popup.html",
+    "default_title": "TODO"
+  }
+
+}
